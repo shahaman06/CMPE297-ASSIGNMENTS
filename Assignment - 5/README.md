@@ -3,7 +3,7 @@
 ## Part - A
 
 **Description**:<br/><br/>
-
+Implementing a SimpleMLP model on PermutedMNIST dataset, by utilizing Avalache. Avalanche, a part of ContinualAI allows fast prototyping and training of continual learning algorithms.
 
 <br/>
 
@@ -12,7 +12,7 @@
 ## Part - B
 
 **Description**:<br/><br/>
-
+We implement active learning with lightly.ai, using the SMOG model. We use CIFAR10 dataset for the modeling
 
 <br/>
 
