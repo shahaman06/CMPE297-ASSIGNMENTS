@@ -1,4 +1,4 @@
 # Catchup Assignments for Midterms: MLOps
 
 **Description**: Document describes setup for the pipeline, with screenshots<br/>
-**Document Link**: https://docs.google.com/document/d/1ABHDgr8LlTLkas2K1xC5zexUEitqTRb_
+**Document Link**: https://drive.google.com/file/d/1DUXBG1cdScUDDqeW8JWNFGYj9ebR_jEr
